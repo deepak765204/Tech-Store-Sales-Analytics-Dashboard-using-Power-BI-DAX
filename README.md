@@ -72,5 +72,7 @@ Used DAX formulas to create:
 ->Improved data storytelling and visualization skills
 
 📸 Dashboard Preview
-1)<img width="1325" height="732" alt="Screenshot 2026-04-01 204844" src="https://github.com/user-attachments/assets/cd83b7e6-b03b-457c-ac3a-40cdec0904dc" />
+1)<img width="1325" height="732" alt="Screenshot 2026-04-01 204844" src="https://github.com/user-attachments/assets/f6a624d6-5d9c-481f-8bec-9ec486ebd76f" />
+2)<img width="1325" height="732" alt="Screenshot 2026-04-01 204844" src="https://github.com/user-attachments/assets/da3db171-1e50-43ca-ab7b-a8886c59b5f8" />
+3)<img width="1325" height="732" alt="Screenshot 2026-04-01 204844" src="https://github.com/user-attachments/assets/cd83b7e6-b03b-457c-ac3a-40cdec0904dc" />
 
